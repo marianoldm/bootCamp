@@ -8,12 +8,8 @@ spring:
         git:
           uri: https://github.com/marianoldm/bootCamp.git
           searchPaths: config-data
-          username: marianoldm
+          username: m.lorendelamo@gmail.com
           password: mla04cam%
-          default-label: "main"
-          clone-on-start: true
-        bootstrap: true
-      enabled: true
   application:
     name: config-service
   security:

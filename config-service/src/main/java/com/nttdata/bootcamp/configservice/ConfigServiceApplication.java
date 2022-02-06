@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
-@EnableConfigServer // anotacion para acitivar nuestro proyecto como un servidor de configuración
+@EnableConfigServer
 @SpringBootApplication
 public class ConfigServiceApplication {
 
