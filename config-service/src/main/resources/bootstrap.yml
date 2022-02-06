@@ -12,7 +12,7 @@ spring:
           searchPaths: config-data*
           #variables de entorno para cuando subamos no este en el repositorio a la vista el user y el pass
           username: marianoldm
-          password: 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
+          password: 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
 security:
   user:
     name: root
