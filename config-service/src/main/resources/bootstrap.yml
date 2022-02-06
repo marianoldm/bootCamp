@@ -13,7 +13,7 @@ spring:
           clone-on-start: true
           #variables de entorno para cuando subamos no este en el repositorio a la vista el user y el pass
           username: marianoldm
-          password: mla04cam%
+          password: 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
   security:
     user:
       name: root
