@@ -7,13 +7,10 @@ spring:
       server:
         git:
           #url del repositorio donde esta ubicado los proyectos (con ello el fichero yml de ellos)
-          uri: https://github.com/marianoldm/bootCamp.git
+          uri: https://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@github.com/marianoldm/bootCamp.git
           # especificamos donde esta los archivos de configuracion de nuestros proyectos
           searchPaaths: config-data
           #variables de entorno para cuando subamos no este en el repositorio a la vista el user y el pass
-          username: marianoldm
-          password: mla04cam%
-
 security:
   user:
     name: root
