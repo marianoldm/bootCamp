@@ -11,6 +11,11 @@ spring:
           username: marianoldm
           password: mla04cam%
           default-label: "main"
+          clone-on-start: true
+        bootstrap: true
+      enabled: true
+  application:
+    name: config-service
   security:
     user:
       name: root
