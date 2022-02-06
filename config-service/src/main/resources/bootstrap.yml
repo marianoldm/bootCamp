@@ -10,9 +10,10 @@ spring:
           uri: https://github.com/marianoldm/bootCamp.git
           # especificamos donde esta los archivos de configuracion de nuestros proyectos
           searchPaths: config-data*
+          clone-on-start: true
           #variables de entorno para cuando subamos no este en el repositorio a la vista el user y el pass
           username: marianoldm
-          password: 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
+          password: mla04cam%
   security:
     user:
       name: root
