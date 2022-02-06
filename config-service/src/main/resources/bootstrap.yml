@@ -13,7 +13,7 @@ spring:
           #variables de entorno para cuando subamos no este en el repositorio a la vista el user y el pass
           username: marianoldm
           password: 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
-security:
-  user:
-    name: root
-    password: s3cr3t
+  security:
+    user:
+      name: root
+      password: s3cr3t
